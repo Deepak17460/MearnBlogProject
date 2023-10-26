@@ -1,2 +1,2 @@
-# MearnBlogProject
-About Blog
+#BLOG PROJECT - MERN
+
